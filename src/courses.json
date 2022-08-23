@@ -1,0 +1,115 @@
+{
+  "info": {
+    "categories": [
+      "python",
+      "excel",
+      "web-development",
+      "javascript",
+      "data-science",
+      "aws",
+      "drawing"
+    ],
+    "courses": [
+      {
+        "id": 1,
+        "title": "Learn Python: The Complete Python Programming Course",
+        "author": "Avinash Jain, The Codex",
+        "image": "courses/python-course1.png",
+        "rating": 4.4,
+        "ratings": 2906,
+        "category": "python",
+        "price": 679.99
+      },
+      {
+        "id": 2,
+        "title": "Learning Python for Data Analysis and Visualization",
+        "author": "Jose Portilla",
+        "image": "courses/python-course2.png",
+        "rating": 4.4,
+        "ratings": 17981,
+        "category": "python",
+        "price": 1599.99
+      },
+      {
+        "id": 3,
+        "title": "Python for Beginners - Learn Programming From Scratch",
+        "author": "Edwin Diaz, Coding Faculty Solutions",
+        "image": "courses/python-course3.png",
+        "rating": 4.4,
+        "ratings": 1762,
+        "category": "python",
+        "price": 679.99
+      },
+      {
+        "id": 4,
+        "title": "Learn Python: Python for Beginners",
+        "author": "Abrar Hussain",
+        "image": "courses/python-course4.png",
+        "rating": 4.2,
+        "ratings": 2766,
+        "category": "python",
+        "price": 319.99
+      },
+      {
+        "id": 5,
+        "title": "Python Beyond the Basics - Object-Oriented Programming",
+        "author": "Infinite Skills",
+        "image": "courses/python-course5.png",
+        "rating": 4.4,
+        "ratings": 2929,
+        "category": "python",
+        "price": 519.99
+      },
+      {
+        "id": 6,
+        "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+        "author": "Adams Kinfu",
+        "image": "courses/python-course6.jpg",
+        "rating": 4.4,
+        "ratings": 2906,
+        "category": "python",
+        "price": 1299.99
+      },
+      {
+        "id": 7,
+        "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+        "author": "Bryson Payne",
+        "image": "https://img-c.udemycdn.com/course/240x135/519554_da68_6.jpg",
+        "rating": 4.5,
+        "ratings": 8809,
+        "category": "python",
+        "price": 319.99
+      },
+      {
+        "id": 8,
+        "title": "Python for Data Structures, Algorithms, and Interviews!",
+        "author": "Jose Portilla",
+        "image": "https://img-c.udemycdn.com/course/240x135/535622_3bc0.jpg",
+        "rating": 4.4,
+        "ratings": 17981,
+        "category": "python",
+        "price": 119.99
+      },
+      {
+        "id": 9,
+        "title": "Automate the Boring Stuff with Python Programming",
+        "author": "Al Sweigart",
+        "image": "https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+        "rating": 4.4,
+        "ratings": 17981,
+        "category": "python",
+        "price": 119.99
+      },
+      {
+        "id": 10,
+        "title": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+        "author": "Jose Portilla",
+        "image": "https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+        "rating": 3.7,
+        "ratings": 19221,
+        "category": "python",
+        "price": 119.99
+      }
+    ]
+  }
+}
