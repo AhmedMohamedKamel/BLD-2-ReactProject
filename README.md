@@ -1,5 +1,5 @@
 # BLD-2-ReactProject
-Practice creating react components on Udemy.Com featured courses section
+Practice creating react components on Udemy.Com featured courses section Project2 phase1 bld.ai Summer Internship 2022
 
 
 # Getting Started with Create React App
